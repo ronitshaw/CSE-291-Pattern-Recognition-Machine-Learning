@@ -1,0 +1,10 @@
+Homework 1: Linear Classification and Subspaces
+Project Contributors
+Sumedha Khatter A53094878
+Ronit Shaw A53220859
+
+commands
+git clone <repo name>
+git add <filename>
+git commit -m "write whatever"
+git push -u origin master
