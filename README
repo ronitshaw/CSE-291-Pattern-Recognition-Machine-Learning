@@ -1,7 +1,4 @@
 Homework 1: Linear Classification and Subspaces
-Project Contributors
-Sumedha Khatter A53094878
-Ronit Shaw A53220859
 
 File Names-
 1. NB_MNIST.ipynb - Naive Bayes on MNIST
@@ -13,4 +10,13 @@ File Names-
 7. train.csv - MNIST train
 8. test.csv - MNIST testset
 9. wine.data.txt - Wine Dataset
+
+Homework 2: Random Forests
+
+
+Homework 3: K-Nearest Neighbour
+1.K-Nearest Neighbour-MNIST
+2.K-Nearest Neighbour-COVER Dataset
+
+
 
